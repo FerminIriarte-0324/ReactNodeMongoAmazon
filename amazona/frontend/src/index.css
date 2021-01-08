@@ -62,6 +62,10 @@ a:hover{
   color: #ff8000;
 }
 
+.text-white {
+  color: white!important;
+}
+
 /* Header */
 header a{
   color: #ffffff;
