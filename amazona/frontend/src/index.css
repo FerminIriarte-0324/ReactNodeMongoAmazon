@@ -128,3 +128,18 @@ img.medium{
   color: #f0c040;
   margin: 0.1rem;
 }
+
+
+.card-header-text .MuiCardHeader-content span{
+  font-size: 1.6rem;
+  padding:0;
+}
+
+.align-items-start{
+  align-items: flex-start;
+}
+
+.font-size-1rem{
+  font-size: 1.4rem!important;
+  margin-bottom: 0!important;
+}
