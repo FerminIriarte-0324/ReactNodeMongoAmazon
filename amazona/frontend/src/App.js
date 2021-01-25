@@ -13,8 +13,8 @@ function App() {
             <a className="brand" href="/">amazona</a>
           </div>
           <div>
-            {/* <a href="/cart">Cart</a>
-            <a href="/signin">Sign In</a> */}
+            <a href="/cart">Cart</a>
+            <a href="/signin">Sign In</a>
           </div>
         </header>
           <main>
